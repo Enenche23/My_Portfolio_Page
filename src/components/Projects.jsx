@@ -9,7 +9,7 @@ const Projects = ({ darkMode }) => {
       title: "Dessert Shop",
       description:
         "A site that allows you to shop for your favorite desserts",
-      image: "../../public/quiz1.png",
+      image: "../../quiz1.png",
       tags: ["HTML", "CSS", "JavaScript"],
       githubLink: "https://github.com/Enenche23/dessertApp",
       liveLink: "https://dessertdelivery.netlify.app/",
@@ -19,7 +19,7 @@ const Projects = ({ darkMode }) => {
       title: "Quiz App",
       description:
         "A simple Quiz App with vite.",
-      image: "../../public/quiz2.png",
+      image: "../../quiz2.png",
       tags: ["ReactJs", "Tailwind CSS", "Vite"],
       githubLink: "https://github.com/Enenche23/quizApp",
       liveLink: "https://chrisquizeapp.netlify.app/",
@@ -29,7 +29,7 @@ const Projects = ({ darkMode }) => {
       title: "My Pet Baby",
       description:
         "This is an App that shows how interractive JavaScript could be.",
-      image: "../../public/quiz3.png",
+      image: "../../quiz3.png",
       tags: ["HTML", "CSS", "JavaScript"],
       githubLink: "https://github.com/Enenche23/myPetBaby",
       liveLink: "https://mypetbaby.netlify.app/",
