@@ -51,7 +51,7 @@ const Footer = ({ darkMode }) => {
               <FaXTwitter size={20} />
             </a>
             <a 
-              href="christopherejehelias158353@gmail.com" 
+              href="mailto:christopherejehelias158353@gmail.com" 
               className={`p-2 rounded-full ${
                 darkMode ? 'hover:bg-gray-700 text-gray-400 hover:text-white' : 'hover:bg-gray-200 text-gray-600 hover:text-gray-900'
               } transition-colors`}
