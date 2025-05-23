@@ -18,7 +18,7 @@ const About = ({ darkMode }) => {
             
             <p>
               My journey in web development began as way back as 2016, when I was in the Polytechnic. I happen to be the best student 
-              in computer programming, and since then my passion for Web development has been insertiable. Since then, I've been constantly learning 
+              in computer programming, and that ignited an insertiable passion for web development in me. Since then, I've been constantly learning 
               and improving my skills with modern technologies and best practices. I'm particularly interested in 
               front-end and backend development.
             </p>
@@ -37,7 +37,7 @@ const About = ({ darkMode }) => {
                 <div>
                   <h4 className="font-medium text-lg">Kaduna Polytechnic</h4>
                   <p className={`${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
-                    Student Union Leader(Departmental)/ HND • 2017 - Present
+                    Student Union Leader(Departmental)/ HND • 2011 - 2017
                   </p>
                   <p className="mt-2">
                     Organizing Tutorials on Computer Programming, Most Inquisitive in Nature, Microbiology.
